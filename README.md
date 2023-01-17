@@ -1,3 +1,3 @@
-### Hey there! 😊
+### Hey there 😊
 
-I'm Fernanda, a software developer in the making.
+I'm Fernanda, a junior software developer from Brazil. 💻
