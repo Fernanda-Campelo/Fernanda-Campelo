@@ -1,1 +1,3 @@
-### Hey there! I'm Fernanda, a software developer in the making.
+### Hey there! :_badger:
+
+I'm Fernanda, a software developer in the making.
