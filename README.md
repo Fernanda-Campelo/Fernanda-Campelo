@@ -1,10 +1,8 @@
 Olá!
 =================================
 
-Eu sou Fernanda Campelo, estudante de Desenvolvimento de Software na Cubos Academy! Meu objetivo é atuar como desenvolvedora fullstack. Tenho conhecimento em JavaScript, HTML, CSS, Node.js, React, Git.
+Eu sou Fernanda Campelo, desenvolvedora web fullstack. Atualmente estudo desenvolvimento de software na Cubos Academy. Tenho conhecimento em JavaScript, HTML, CSS, React, NodeJS, entre outras tecnologias.
 
-*   🌍  Sou de Salvador, Bahia.
-*   🧠  Estou estudando React!
 *   ✉️  Entre em contato comigo: [https://www.linkedin.com/in/fernanda-campelo-dias/](mailto:https://www.linkedin.com/in/fernanda-campelo-dias/)
 
 
