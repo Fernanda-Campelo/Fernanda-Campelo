@@ -4,7 +4,7 @@ Olá! 👋 Meu nome é Fernanda Campelo
 Sou uma desenvolvedora full-stack. Tenho conhecimento em JavaScript, HTML, CSS, Node.js, React, Git.
 
 *   🌍  Sou de Salvador, Bahia.
-*   🧠  Estou estudando React atualmente!
+*   🧠  Estou estudando React!
 *   ✉️  Entre em contato comigo: [https://www.linkedin.com/in/fernanda-campelo-dias/](mailto:https://www.linkedin.com/in/fernanda-campelo-dias/)
 
 
