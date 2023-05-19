@@ -5,8 +5,7 @@ Eu sou Fernanda Campelo, desenvolvedora web fullstack. Atualmente estudo desenvo
 
 ✉️  Entre em contato comigo: [https://www.linkedin.com/in/fernanda-campelo-dias/](mailto:https://www.linkedin.com/in/fernanda-campelo-dias/)
 
-=================================
-
+<br>
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
