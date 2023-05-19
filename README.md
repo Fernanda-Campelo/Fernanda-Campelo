@@ -1,4 +1,4 @@
-Olá! 👋 Meu nome é Fernanda Campelo
+Fernanda Campelo
 =================================
 
 Sou uma desenvolvedora full-stack. Tenho conhecimento em JavaScript, HTML, CSS, Node.js, React, Git.
