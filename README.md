@@ -9,7 +9,7 @@ Eu sou Fernanda Campelo, desenvolvedora web fullstack. Atualmente estudo desenvo
 
 <br>
 
-Hey there!
+<h1>Hey there!</h1>
 
 I'm Fernanda Campelo, fullstack web developer. I'm currently studying software development at [@cubosacademy](https://cubos.academy/). I have experience with JavaScript, HTML, CSS, React, NodeJS, among other technologies.
 
