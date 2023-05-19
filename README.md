@@ -7,7 +7,7 @@ Eu sou Fernanda Campelo, desenvolvedora web fullstack. Atualmente estudo desenvo
 
 ✉️  Entre em contato comigo: [https://www.linkedin.com/in/fernanda-campelo-dias/](mailto:https://www.linkedin.com/in/fernanda-campelo-dias/)
 
-<br><br>
+<br>
 
 Hey there!
 
