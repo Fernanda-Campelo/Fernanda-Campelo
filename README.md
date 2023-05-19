@@ -1,7 +1,7 @@
 Olá!
 =================================
 
-Eu sou Fernanda Campelo, uma desenvolvedora full-stack. Tenho conhecimento em JavaScript, HTML, CSS, Node.js, React, Git.
+Eu sou Fernanda Campelo, desenvolvedora full-stack. Tenho conhecimento em JavaScript, HTML, CSS, Node.js, React, Git.
 
 *   🌍  Sou de Salvador, Bahia.
 *   🧠  Estou estudando React!
