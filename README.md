@@ -7,6 +7,16 @@ Eu sou Fernanda Campelo, desenvolvedora web fullstack. Atualmente estudo desenvo
 
 ✉️  Entre em contato comigo: [https://www.linkedin.com/in/fernanda-campelo-dias/](mailto:https://www.linkedin.com/in/fernanda-campelo-dias/)
 
+<br><br>
+
+Hey there!
+
+I'm Fernanda Campelo, fullstack web developer. I'm currently studying software development at [@cubosacademy](https://cubos.academy/). I have experience with JavaScript, HTML, CSS, React, NodeJS, among other technologies.
+
+<br>
+
+✉️  You can contact me at: [https://www.linkedin.com/in/fernanda-campelo-dias/](mailto:https://www.linkedin.com/in/fernanda-campelo-dias/)
+
 <br>
 
 <p align="left">
